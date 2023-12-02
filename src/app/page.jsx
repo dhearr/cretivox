@@ -1,5 +1,5 @@
 import ProductList from "@/components/ProductList";
-import { styles } from "@/styles";
+import { styles } from "@/app/styles";
 
 const Page = async () => {
   const res = await fetch(

@@ -1,4 +1,4 @@
-import { styles } from "@/styles";
+import { styles } from "@/app/styles";
 import React from "react";
 
 const loading = () => {
