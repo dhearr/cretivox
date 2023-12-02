@@ -1,10 +1,11 @@
 import React from "react";
 import Link from "next/link";
+import { styles } from "./style";
 
 const index = () => {
   return (
-    <div className="navbar bg-black sticky top-0 z-[9999]">
-      <Link href="/" className="btn btn-ghost text-xl text-white">
+    <div className={styles.containNavbar}>
+      <Link href="/" className={styles.logo}>
         Cretivox
       </Link>
     </div>

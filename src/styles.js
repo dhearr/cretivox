@@ -33,9 +33,9 @@ const styles = {
   textPrice: "title-font font-medium text-2xl text-gray-900",
   buttonBuy: "flex ml-auto btn text-white py-2 px-6 ",
 
-  //style Navbar
-  containNavbar: "navbar bg-black sticky top-0 z-[9999]",
-  logo: "btn btn-ghost text-xl text-white",
+  // //style Navbar
+  // containNavbar: "navbar bg-black sticky top-0 z-[9999]",
+  // logo: "btn btn-ghost text-xl text-white",
 
   //style Product
   containProduct: "flex p-10 flex-wrap gap-5 justify-center",
