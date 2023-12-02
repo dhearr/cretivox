@@ -1,5 +1,5 @@
 import { getProductResponse } from "@/app/libs/api-libs";
-import { styles } from "@/styles";
+import { styles } from "./styles";
 
 const Page = async ({ params: { id } }) => {
   const product = await getProductResponse(`products/${id}`);

@@ -1,4 +1,4 @@
-import { styles } from "@/styles";
+import { styles } from "./styles";
 import Link from "next/link";
 import React from "react";
 

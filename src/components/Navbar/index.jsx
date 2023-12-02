@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { styles } from "./style";
+import { styles } from "./styles";
 
 const index = () => {
   return (
